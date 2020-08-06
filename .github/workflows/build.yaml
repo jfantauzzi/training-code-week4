@@ -9,10 +9,11 @@ jobs:
   analyze:
   package:
   deploy:
-  
-on:
-  push:
-    - master
+
+name: cibuild    
+
+on: push
+
 
 
 
