@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="63" visitedSequencePoints="6" numBranchPoints="26" visitedBranchPoints="0" sequenceCoverage="9.52" branchCoverage="0" maxCyclomaticComplexity="23" minCyclomaticComplexity="16" visitedClasses="1" numClasses="10" visitedMethods="2" numMethods="18" />
   <Modules>
-    <Module hash="4D697A86-3997-4FBF-B292-F3A2ED27E8E7">
+    <Module hash="69164BB8-B9D6-4C5E-8C7C-825E960C92EF">
       <ModulePath>DevopsCI.Client.dll</ModulePath>
-      <ModuleTime>2020-08-07T04:12:54</ModuleTime>
+      <ModuleTime>2020-08-07T04:41:18</ModuleTime>
       <ModuleName>DevopsCI.Client</ModuleName>
       <Files>
         <File uid="1" fullPath="/home/jfantauz/revature_dotnet/week_4/DevopsCI.Client/Program.cs" />
@@ -217,9 +217,9 @@
         </Class>
       </Classes>
     </Module>
-    <Module hash="01D13DD0-FA80-4204-B453-299B141CBC23">
+    <Module hash="DFE6EC2D-3D58-4676-B0BD-1F67D7E8C2AA">
       <ModulePath>DevopsCI.Client.Views.dll</ModulePath>
-      <ModuleTime>2020-08-07T04:12:54</ModuleTime>
+      <ModuleTime>2020-08-07T04:41:18</ModuleTime>
       <ModuleName>DevopsCI.Client.Views</ModuleName>
       <Files>
         <File uid="5" fullPath="/home/jfantauz/revature_dotnet/week_4/DevopsCI.Client/Views/Home/Index.cshtml" />
